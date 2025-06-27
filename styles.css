@@ -6,14 +6,14 @@ Body{
 }
 
 header {
-    border-bottom: solid 2px rgba(90, 255, 131, 0.815);
+    border-bottom: solid 2px rgba(0, 83, 21, 0.993);
     padding: 20px;
     font-size: 32px;
-    color: rgba(87, 255, 129, 0.836)
+    color: rgba(0, 83, 21, 0.993)
 }
 
 section{
-    background: rgb(126, 201, 245, 0.815)
+    background: rgb(0, 83, 21, 0.993)
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -22,4 +22,12 @@ section{
 
 .chamada-texto {
     margin-right: 5%;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+p{
+    font-size: 20px;
 }
