@@ -2,13 +2,14 @@ Body{
     color:white;
     background: black;
     margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
 }
 
 header {
-    border-bottom: solid 2px rgba(1, 155, 40, 0.733);
+    border-bottom: solid 2px rgba(90, 255, 131, 0.815);
     padding: 20px;
     font-size: 32px;
-    color: rgb(1, 155, 40, 0.733)
+    color: rgba(87, 255, 129, 0.836)
 }
 
 section{
